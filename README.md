@@ -8,6 +8,8 @@ Simple chat in realtime with Quasar & Firebase
 yarn
 ```
 
+### Create .env file with your Firebase API configurations
+
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 
 ```bash
